@@ -1,1 +1,1 @@
-# f24-bootcamp-github-exercise
+f24-bootcamp-github-exercise
